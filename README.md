@@ -1,25 +1,25 @@
 # Jungle
 
-A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
-
+The next generation of the internet. Jungle is a never before seen web app that will launch the internet e-commerce era. With its intensely vast selection of products, you can find anything on Jungle.
 
 ## Setup
 
-1. Fork & Clone
-2. Run `bundle install` to install dependencies
-3. Create `config/database.yml` by copying `config/database.example.yml`
-4. Create `config/secrets.yml` by copying `config/secrets.example.yml`
-5. Run `bin/rake db:reset` to create, load and seed db
-6. Create .env file based on .env.example
-7. Sign up for a Stripe account
-8. Put Stripe (test) keys into appropriate .env vars
-9. Run `bin/rails s -b 0.0.0.0` to start the server
+1. Clone this repo to your local/VM machine.
+2. Run "Bundle install" to install all Dependencies
+3. Within the main app directory run "bin/rails s -b 0.0.0.0"
+
+## Images
+![Login](https://github.com/TylerNRobertson/jungle-rails/blob/master/images/login.png "Login")
+![SignUp](https://github.com/TylerNRobertson/jungle-rails/blob/master/images/signup.png"Signup")
+![Products](https://github.com/TylerNRobertson/jungle-rails/blob/master/images/products.png "Products")
+![View-Product](https://github.com/TylerNRobertson/jungle-rails/blob/master/images/showproduct.png "View Product")
 
 ## Stripe Testing
+if you would like to test out the method of buying a product on Jungle use the information below.
 
-Use Credit Card # 4111 1111 1111 1111 for testing success scenarios.
-
-More information in their docs: <https://stripe.com/docs/testing#cards>
+Use Credit Card # 4111 1111 1111 1111
+Use exp. Date of 12/20
+Use 111 for the other 3 digit input
 
 ## Dependencies
 
