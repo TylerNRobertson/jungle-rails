@@ -10,7 +10,7 @@ The next generation of the internet. Jungle is a never before seen web app that 
 
 ## Images
 ![Login](https://github.com/TylerNRobertson/jungle-rails/blob/master/images/login.png "Login")
-![SignUp](https://github.com/TylerNRobertson/jungle-rails/blob/master/images/signup.png "Signup")
+![SignUp](https://github.com/TylerNRobertson/jungle-rails/blob/master/images/singup.png "Signup")
 ![Products](https://github.com/TylerNRobertson/jungle-rails/blob/master/images/products.png "Products")
 ![View-Product](https://github.com/TylerNRobertson/jungle-rails/blob/master/images/showproduct.png "View Product")
 
